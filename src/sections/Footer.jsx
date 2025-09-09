@@ -5,6 +5,9 @@
          </div>
          <div className="socials">
            {socialImgs.map((socialImg, index) => (
+         )
+         )
+         }
 @@ .. @@
          <div className="flex flex-col justify-center">
            <p className="text-center md:text-end">

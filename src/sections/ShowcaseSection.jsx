@@ -1,5 +1,6 @@
 @@ .. @@
    return (
+   )
 -    <div id="work" ref={sectionRef} className="app-showcase">
 +    <div id="products" ref={sectionRef} className="app-showcase">
        <div className="w-full">

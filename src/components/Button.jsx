@@ -5,3 +5,4 @@
 -        // taht prevents the contact button from scrolling to the top
 +        // that prevents the contact button from scrolling to the top
          if (target && id) {
+         }

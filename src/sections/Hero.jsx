@@ -6,6 +6,9 @@
                  <span className="slide">
                    <span className="wrapper">
                      {words.map((word, index) => (
+               )
+               )
+               }
 @@ .. @@
                  </span>
                </h1>
